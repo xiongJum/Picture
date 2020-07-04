@@ -5,6 +5,5 @@
         "image1.png",              // ignore by filename
 //      "public/special_images/*", // ignore by folderpath
     ],
-    "aggressiveCompression": "true" // true|false,
-    "minKBReduced": null,
+    "aggressiveCompression": "true" // true|false
 }
